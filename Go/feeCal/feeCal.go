@@ -5,8 +5,8 @@ import(
 	"time"
 	"math"
 	"sort"
-	"toll-calculator/tollfreecheck"
-	"toll-calculator/vehicle"
+	"../tollfreecheck"
+	"../vehicle"
 )
 
 // function to convert date string to type time.Time
