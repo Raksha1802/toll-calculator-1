@@ -37,7 +37,7 @@ A program/solution that calculates the total toll fee that needs to be paid by a
 
 # How to run the program:
 
-(As a prerequisite step, should have go installed, and download the code packages and run "go mod init")
+(As a prerequisite step, should have go installed, and download the code packages and run "go mod init" and change the dependencies of packages accordingly)
 
 The solution contains a "main.go" file, which acts a feeder of data to carry out toll fee calculation. This particular file can be modified as per use.
 
