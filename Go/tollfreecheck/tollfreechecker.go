@@ -3,7 +3,7 @@ package tollfreecheck
 import(
 	"fmt"
 	"time"
-	"toll-calculator/holiday"
+	"../holiday"
 	"strings"
 )
 var value holiday.Cal
