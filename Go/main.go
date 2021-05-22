@@ -2,9 +2,9 @@ package main
 
 import(
 	"fmt"
-	"toll-calculator/tollfreecheck"
-	"toll-calculator/feeCal"
-	"toll-calculator/vehicle"
+	"./tollfreecheck"
+	"./feeCal"
+	"./vehicle"
 )
 
 func createInstance(a string) vehicle.Vehicle{
