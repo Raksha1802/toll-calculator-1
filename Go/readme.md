@@ -41,6 +41,8 @@ A program/solution that calculates the total toll fee that needs to be paid by a
 
 The solution contains a "main.go" file, which acts a feeder of data to carry out toll fee calculation. This particular file can be modified as per use.
 
+(The imports in the files/packages are based on the local directory worked on. Need to be changes accordingly)
+
 ## File structure of the Implemented Solution
 
 1. feeCal\ ==> toll fee calculations.
